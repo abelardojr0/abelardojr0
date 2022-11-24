@@ -1,4 +1,4 @@
-##Oiiii! Me chamo Abelardo Júnior 👋
+## Eae! Bem-vindo, Eu me chamo Abelardo Júnior, e aqui você vai encontrar todos os projetos em que estou trabalhando! 👋
 
 <div align="center">
   <a href="https://github.com/abelardojr0">
