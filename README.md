@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AL9nZEXv9BetjLfEP-Gg0JEMKyehnwk0paZxmkmT5O35VIJyfDOxiY57BnVCClWaVN51acBhojN86UBDEhbPzzF1E-l10ilubBJRTFZbf10I8YuCgzkguUsB4Z5QxNkVFV3wF-xXahg9vhQDBNmc_bTeG07HHTXI16qGt5WcKcYBL2f1ngscVykK3FIyZ3w8xgS0_1usldjrGpAm52DSKKcqCWJRv3W-MlHM3nDCyekNQh8gP_oKduT3yDv-E1_-j_U_DwjE4HlZUvT-VNIJ9wuwy5iKdbpIGPg6pRFLPhXMiUhBe8EMqYrbRLnxH8mRVakcX3-8xgcNIB5E7GWDncNMGhglP_Z_8urnhLNwYUhofdN-rKizePy5JX4SYuhYq63OsEblcjSy1hChRsWGqvCaBxWDTnZ9gPWQHND3pU3fv6DQmclQYDeg1wj1xtPxdOJbRZs1zyY3yuMTFtiseKSsfEVpyBiJ_IQrpMny7R72F2PC_bj1EA1e4fQQCz2d9nmG6hxrS1x2Qy6nNBkB7FbN59d53kCiQhstP3mMNcJK4e6swFEUnEnCQQYTl--nmSxVdaLVOhsCSNt64Y7psEd6CQoxlkDv49xsW6ztEJWpJ46Yd-pzlyYeTs7BNn_aGpUlEvm0AwSSsh8V1kjD1yfrrurAkEk0ZqNH6wI0IqzM2iAV9b89_KMBOSvQhVTQVyKkZu4ZgHfUCGGeZNvFwwSMyAXPZszopASRCNUA4bfRZeGHvCLY0LcfZV9P1rXvqfdHi_L9rBNPzXnrz8ftnerUGAX3IzaU44QOs8Y9A8Oy98P5QfN-QTv7-CtmxdzKJvEDJP68yzFZRvEL4s-JZlDz8VZv_JUe5Z77QzqkILIpGoi5p5A54OfpRGK4Vq_GMoXr044RSuPXxbUqcWbd8wJjbg=s400-no?authuser=0">
+  <img align="right" alt="Avatar-Imagem" height="150" style="border-radius:50px;" src="https://photos.google.com/album/AF1QipNIBy2AB-87FtJVXLRKf1gsWXYMMdB-V4ey-Ohh/photo/AF1QipP6bfa_uWhK5OrfaknrajfZojArZhB1uDcStQf7">
 </div>
   
   ##
