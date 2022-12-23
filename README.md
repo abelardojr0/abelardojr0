@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Avatar-Imagem" height="150" style="border-radius:50px;" src="https://i.ibb.co/st1dxdp/ead24315b852672dda3b2d7adf0d2623.jpg">
+  <img align="right" alt="Avatar-Imagem" height="150" src="https://i.ibb.co/st1dxdp/ead24315b852672dda3b2d7adf0d2623.jpg">
 </div>
   
   ##
