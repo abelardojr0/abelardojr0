@@ -1,12 +1,9 @@
-## Eae! Bem-vindo, Eu me chamo Abelardo Júnior, e aqui você vai encontrar todos os projetos em que estou trabalhando! 👋
-
-
 <div align="center">
   <a href="https://github.com/abelardojr0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abelardojr0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelardojr0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Styled-Components" height="30" width="40" src="https://user-images.githubusercontent.com/106066785/229652910-8856ff14-b6e8-457d-ae29-d92ad3c1b67a.svg">
@@ -17,7 +14,7 @@
   <img align="center" alt="Flask" height="30" width="40" src="https://user-images.githubusercontent.com/106066785/229653049-90a832da-260c-4a2b-a710-b64510ed2780.png">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://user-images.githubusercontent.com/106066785/229653154-9e45c571-a10e-4ed9-a726-cd3c4608446a.png">
   <img align="right" alt="Avatar-Imagem" height="150" src="https://i.ibb.co/W25h6Dm/Design-sem-nome.png">
-</div>
+</div> -->
 
 
   ##
@@ -29,5 +26,5 @@
  
 </div>
 
-![octocat-1671807354728-mini](https://user-images.githubusercontent.com/106066785/209391434-dab3c505-6a38-4dd9-9222-1f8fb8966e13.png)
+
 
